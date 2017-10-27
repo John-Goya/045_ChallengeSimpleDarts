@@ -1,0 +1,6 @@
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-045\ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-045\ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-045\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-045\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-045\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-045\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
